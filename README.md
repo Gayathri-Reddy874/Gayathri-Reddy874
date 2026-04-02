@@ -10,46 +10,43 @@ Bangalore, India
 
 ## Summary
 
-Final-year AIML student with a strong foundation in **machine learning, data analysis, and full-stack development**.  
-Experienced in building **end-to-end data-driven applications**, from data preprocessing and model development to deployment.
+Final-year AIML undergraduate with a strong foundation in **Machine Learning, Data Analysis, and Full-Stack Development**.  
+Experienced in building **end-to-end data-driven solutions**, including data preprocessing, model development, and deployment.
 
-- Strong problem-solving and analytical skills  
-- Hands-on experience with real-world AI projects  
-- Focused on building scalable and impactful solutions  
+- Strong analytical and problem-solving abilities  
+- Hands-on experience with real-world AI applications  
+- Focused on developing scalable and impactful solutions  
 
 ---
 
 ## Technical Skills
 
-**Programming:** Python, C, C++, JavaScript  
-**Data Science & AI:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV  
-**Web Development:** React, Django, Flask, REST APIs  
-**Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-**Tools & Platforms:** Git, Docker, AWS, Azure  
+<table>
+<tr>
+<td><strong>Programming</strong></td>
+<td>Python, C, C++, JavaScript</td>
+</tr>
 
----
+<tr>
+<td><strong>Data Science & AI</strong></td>
+<td>NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV</td>
+</tr>
 
-## Projects
+<tr>
+<td><strong>Web Development</strong></td>
+<td>React, Django, Flask, REST APIs</td>
+</tr>
 
-**YouTube Transcript Summarizer**  
-- Built an NLP-based application to extract and summarize video transcripts  
-- Technologies: Python, Streamlit  
+<tr>
+<td><strong>Data Visualization</strong></td>
+<td>Power BI, Tableau, Matplotlib, Seaborn</td>
+</tr>
 
-**Drowsiness Detection System**  
-- Developed a real-time driver monitoring system using computer vision  
-- Technologies: OpenCV, dlib  
-
-**Hand Gesture Brightness Control**  
-- Implemented gesture-based system control using hand tracking  
-- Technologies: MediaPipe, OpenCV  
-
-**E-commerce Web Application**  
-- Designed a full-stack platform with product management and admin features  
-- Technologies: JavaScript, MySQL  
-
-**AI Chatbot Application**  
-- Built a conversational AI system with multi-session support  
-- Technologies: React, OpenAI API  
+<tr>
+<td><strong>Tools & Platforms</strong></td>
+<td>Git, Docker, AWS, Azure</td>
+</tr>
+</table>
 
 ---
 
