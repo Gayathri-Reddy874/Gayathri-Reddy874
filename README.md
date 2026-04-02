@@ -42,39 +42,21 @@ I am a final-year AIML student passionate about building intelligent systems usi
 
 ## 🛠️ Skills
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,tensorflow,pytorch,git,docker,aws,azure" />
 </p>
 
-### 🧠 Data Science & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/NumPy-blue?style=flat&logo=numpy">
-  <img src="https://img.shields.io/badge/Pandas-purple?style=flat&logo=pandas">
-  <img src="https://img.shields.io/badge/Scikit--learn-orange?style=flat&logo=scikit-learn">
-  <img src="https://img.shields.io/badge/OpenCV-black?style=flat">
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
-
-### 🌐 Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,django,flask" />
-  <img src="https://img.shields.io/badge/REST-API-green?style=flat">
-</p>
-
-### 📊 Visualization
-<p>
-  <img src="https://img.shields.io/badge/PowerBI-yellow?style=flat&logo=power-bi">
-  <img src="https://img.shields.io/badge/Tableau-blue?style=flat">
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=flat">
-  <img src="https://img.shields.io/badge/Seaborn-grey?style=flat">
-</p>
-
-### ☁️ Tools & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,azure" />
-</p>
-
 ---
 
 ## 📜 Certifications
