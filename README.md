@@ -1,104 +1,114 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Data+Scientist+in+the+Making;AI+%26+ML+Enthusiast;Building+Intelligent+Solutions">
-</p>
-
-<h1 align="center">Mallareddygari Gayathri</h1>
+<h1 align="center">Hi, I'm Mallareddygari Gayathri 👋</h1>
 
 <p align="center">
-  Artificial Intelligence & Machine Learning Undergraduate <br>
-  Aspiring Data Scientist | Python Full Stack Developer <br>
+  <b>Artificial Intelligence & Machine Learning Undergraduate</b><br>
+  Aspiring Data Scientist | Python Full Stack Developer<br>
   Bangalore, India
 </p>
 
 ---
 
-## ✦ Summary
+## 🌸 About Me
 
-Final-year AIML undergraduate with a strong foundation in **Machine Learning, Data Analysis, and Full-Stack Development**.  
-Experienced in building **end-to-end intelligent systems**, from data preprocessing and model development to deployment.
+I am a final-year AIML student passionate about building intelligent systems using **data, machine learning, and modern web technologies**.
 
-<p align="center">
-  <i>Focused on solving real-world problems through data-driven solutions.</i>
+- 💡 I enjoy solving real-world problems using data  
+- 🤖 Interested in Machine Learning, Deep Learning, and NLP  
+- 🌐 Love building AI-powered web applications  
+- 📊 Curious about uncovering insights from data  
+- 🚀 Currently focused on improving my skills and building impactful projects  
+
+---
+
+## 💖 What I Like
+
+- 📊 Working with data and finding patterns  
+- 🧠 Learning new AI/ML concepts  
+- 💻 Building full-stack applications  
+- 🧩 Solving coding problems  
+- 🌱 Continuous learning and growth  
+
+---
+
+## 🎯 Interests
+
+- Machine Learning & Deep Learning  
+- Data Science & Analytics  
+- Natural Language Processing (NLP)  
+- AI-powered Applications  
+- Cloud & Scalable Systems  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+</p>
+
+### 🧠 Data Science & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/NumPy-blue?style=flat&logo=numpy">
+  <img src="https://img.shields.io/badge/Pandas-purple?style=flat&logo=pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-orange?style=flat&logo=scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-black?style=flat">
+</p>
+
+### 🌐 Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,django,flask" />
+  <img src="https://img.shields.io/badge/REST-API-green?style=flat">
+</p>
+
+### 📊 Visualization
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-yellow?style=flat&logo=power-bi">
+  <img src="https://img.shields.io/badge/Tableau-blue?style=flat">
+  <img src="https://img.shields.io/badge/Matplotlib-black?style=flat">
+  <img src="https://img.shields.io/badge/Seaborn-grey?style=flat">
+</p>
+
+### ☁️ Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,azure" />
 </p>
 
 ---
 
-## ✦ Technical Skills
+## 📜 Certifications
+
+- Artificial Intelligence – IBM SkillsBuild  
+- AI Dashboards using Microsoft Power BI  
+- Generative AI Workshop  
+- Responsive Web Design – freeCodeCamp  
+- Problem Solving through Programming in C – NPTEL  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<table>
-<tr>
-<td align="center"><b>Programming</b></td>
-<td align="center">Python • C • C++ • JavaScript</td>
-</tr>
-
-<tr>
-<td align="center"><b>Data Science & AI</b></td>
-<td align="center">NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • OpenCV</td>
-</tr>
-
-<tr>
-<td align="center"><b>Web Development</b></td>
-<td align="center">React • Django • Flask • REST APIs</td>
-</tr>
-
-<tr>
-<td align="center"><b>Visualization</b></td>
-<td align="center">Power BI • Tableau • Matplotlib • Seaborn</td>
-</tr>
-
-<tr>
-<td align="center"><b>Tools & Cloud</b></td>
-<td align="center">Git • Docker • AWS • Azure</td>
-</tr>
-</table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact&theme=radical">
 </p>
 
 ---
 
-## ✦ Certifications
+## 📫 Connect With Me
 
-<p align="center">
-
-Artificial Intelligence – IBM SkillsBuild <br>
-AI Dashboards using Microsoft Power BI <br>
-Generative AI Workshop <br>
-Responsive Web Design – freeCodeCamp <br>
-Problem Solving through Programming in C – NPTEL  
-
-</p>
-
----
-
-## ✦ GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact&theme=tokyonight&hide_border=true" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-Reddy874&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-## ✦ Connect
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/mallareddygari-gayathri">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:gayathrireddy18125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ✦ Turning data into insights • Building intelligent systems ✦
+✨ Turning ideas into intelligent solutions ✨
 </p>
