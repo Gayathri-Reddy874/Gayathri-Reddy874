@@ -1,111 +1,84 @@
-<!-- Banner / Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Scientist;AI+Engineer;Python+Full+Stack+Developer&center=true&width=500&height=50">
-</p>
-
-<h1 align="center">👋 Hi, I'm Mallareddygari Gayathri</h1>
+<h1 align="center">Mallareddygari Gayathri</h1>
 
 <p align="center">
-🎓 Final-Year B.E. in Artificial Intelligence & Machine Learning  
-💻 Aspiring Data Scientist | Python Full Stack Developer  
-📍 Bangalore, India  
+Artificial Intelligence & Machine Learning Undergraduate  
+Aspiring Data Scientist | Python Full Stack Developer  
+Bangalore, India
 </p>
 
 ---
 
-## 🚀 About Me
+## Summary
 
-I am an aspiring **Data Scientist and AI Engineer** passionate about building intelligent systems that solve real-world problems.
+Final-year AIML student with a strong foundation in **machine learning, data analysis, and full-stack development**.  
+Experienced in building **end-to-end data-driven applications**, from data preprocessing and model development to deployment.
 
-- 🔍 Strong interest in **Machine Learning, Deep Learning & NLP**
-- 📊 Skilled in transforming data into actionable insights
-- 🌐 Experienced in building **AI-powered full-stack applications**
-- 🚀 Believe in **learning by building impactful projects**
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-
-### 🧩 Data Science & AI
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat&logo=opencv&logoColor=white)
-
-### 🌐 Development
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-orange?style=flat&logo=swagger&logoColor=white)
-
-### 📊 Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=flat&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat)
-
-### ☁️ Tools & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)
+- Strong problem-solving and analytical skills  
+- Hands-on experience with real-world AI projects  
+- Focused on building scalable and impactful solutions  
 
 ---
 
-## 🔥 Featured Projects
+## Technical Skills
 
-| Project | Description | Tech |
-|--------|------------|------|
-| 🎥 [YouTube Transcript Summarizer](https://github.com/Gayathri-Reddy874/Youtube_transcript_summarizer) | Extracts & summarizes transcripts using NLP | Python, Streamlit |
-| 😴 [Drowsiness Detection System](https://github.com/Gayathri-Reddy874/Drowsiness_detection) | Real-time fatigue detection using computer vision | OpenCV, dlib |
-| 🖐️ [Gesture Brightness Control](https://github.com/Gayathri-Reddy874/Hand_Gesture_Recognition) | Controls screen brightness via hand gestures | MediaPipe, OpenCV |
-| 🛍️ [E-commerce Website](https://github.com/Gayathri-Reddy874/E-commerce_website) | Full-stack web app with admin dashboard | JS, MySQL |
-| 💬 [AI Chatbot](https://github.com/Gayathri-Reddy874/OpenAI_Chatbot_Website) | Multi-chat AI chatbot using OpenAI API | React |
+**Programming:** Python, C, C++, JavaScript  
+**Data Science & AI:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, OpenCV  
+**Web Development:** React, Django, Flask, REST APIs  
+**Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+**Tools & Platforms:** Git, Docker, AWS, Azure  
 
 ---
 
-## 🏆 Certifications
+## Projects
+
+**YouTube Transcript Summarizer**  
+- Built an NLP-based application to extract and summarize video transcripts  
+- Technologies: Python, Streamlit  
+
+**Drowsiness Detection System**  
+- Developed a real-time driver monitoring system using computer vision  
+- Technologies: OpenCV, dlib  
+
+**Hand Gesture Brightness Control**  
+- Implemented gesture-based system control using hand tracking  
+- Technologies: MediaPipe, OpenCV  
+
+**E-commerce Web Application**  
+- Designed a full-stack platform with product management and admin features  
+- Technologies: JavaScript, MySQL  
+
+**AI Chatbot Application**  
+- Built a conversational AI system with multi-session support  
+- Technologies: React, OpenAI API  
+
+---
+
+## Certifications
 
 - Artificial Intelligence – IBM SkillsBuild  
-- AI Dashboards using Power BI  
+- AI Dashboards using Microsoft Power BI  
 - Generative AI Workshop  
 - Responsive Web Design – freeCodeCamp  
-- Problem Solving in C – NPTEL  
+- Problem Solving through Programming in C – NPTEL  
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact&theme=radical" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri-Reddy874&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=default" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact&theme=default" height="160">
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mallareddygari-gayathri">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
-  </a>
-  <a href="mailto:gayathrireddy18125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail">
-  </a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/mallareddygari-gayathri  
+- Email: gayathrireddy18125@gmail.com  
 
 ---
 
-⭐ *"Turning data into insights, and ideas into intelligent solutions."*
+<p align="center">
+Focused on building intelligent systems that create real-world impact.
+</p>
