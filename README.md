@@ -82,9 +82,9 @@ I enjoy transforming raw data into **actionable insights** and building scalable
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact)
 
 ---
 
