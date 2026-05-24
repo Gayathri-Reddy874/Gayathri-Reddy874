@@ -8,19 +8,39 @@
 
 ## 🚀 About Me
 
-I am a **graduate in Artificial Intelligence & Machine Learning** with strong interest in **Data Science, AI/ML engineering, and Business Intelligence**.
+I am a **graduate in Artificial Intelligence & Machine Learning** with a strong interest in **Data Science, AI/ML Engineering, and Business Intelligence**.
 
 I specialize in building **data-driven and AI-powered solutions** using Machine Learning, Deep Learning, NLP, and Data Visualization tools like Power BI.
 
 I enjoy solving real-world problems by transforming raw data into **insightful dashboards, predictive models, and intelligent applications**.
 
-💡 **Core Interests:**
-- Data Science & Predictive Analytics  
-- Machine Learning & Deep Learning  
-- Computer Vision & NLP  
-- Business Intelligence (Power BI)  
-- AI-driven Applications  
+I am currently actively working on **Data Science and AI/ML projects**, with a focus on improving my skills in **model building, real-world deployment, and intelligent system design**.
 
+ **Career Interests:**
+- Data Scientist roles  
+- AI/ML Engineer roles  
+- Machine Learning Engineer roles  
+- Data Analyst / Business Intelligence roles  
+
+🎯 **Open To:**
+- Full-time opportunities in Data Science & AI/ML  
+- Internships / Graduate roles in Machine Learning, AI, and Analytics  
+- Real-world project collaboration in AI and Data Science  
+
+💡 **Core Interests:**
+- Machine Learning & Predictive Analytics  
+- Deep Learning & Computer Vision  
+- Natural Language Processing (NLP)  
+- Data Science & Business Intelligence (BI) 
+- AI-powered Applications  
+
+---
+## 🔥 Current Focus
+
+- Building production-ready AI/ML projects  
+- Improving Data Science & Machine Learning skills  
+- Working on end-to-end real-world AI systems  
+- Strengthening portfolio for Data Scientist roles  
 ---
 
 ## 🧠 Technical Skills
