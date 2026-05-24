@@ -49,9 +49,9 @@ I am currently actively working on **Data Science and AI/ML projects**, with a f
 📊 **Data Science:** Pandas, NumPy, Scikit-learn, Feature Engineering, Data Cleaning  
 🤖 **AI/ML:** Machine Learning, Deep Learning, NLP, OpenCV  
 📈 **BI Tools:** Power BI, Tableau  
-🧠 **Frameworks:** TensorFlow, Django, Flask  
+🧠 **Frameworks:** TensorFlow, Django, Flask, Langchain, Huggingface
 🌐 **Backend:** REST API Development, PostgreSQL  
-📊 **Visualization:** Matplotlib, Seaborn  
+📊 **Visualization:** Matplotlib, Seaborn
 🛠️ **Tools:** Git, GitHub, Jupyter Notebook, Postman  
 
 ---
