@@ -45,13 +45,18 @@ I am currently actively working on **Data Science and AI/ML projects**, with a f
 
 ## 🧠 Technical Skills
 
-💻 **Programming:** Python, SQL, C, C++  
-📊 **Data Science:** Pandas, NumPy, Scikit-learn, Feature Engineering, Data Cleaning  
-🤖 **AI/ML:** Machine Learning, Deep Learning, NLP, OpenCV  
-📈 **BI Tools:** Power BI, Tableau  
-🧠 **Frameworks:** TensorFlow, Django, Flask, Langchain, Huggingface
-🌐 **Backend:** REST API Development, PostgreSQL  
-📊 **Visualization:** Matplotlib, Seaborn
+🧠 **Programming:** Python, SQL  
+
+📊 **Data Science:** Pandas, NumPy, Scikit-learn, Feature Engineering, Data Cleaning, Data Preprocessing  
+
+🤖 **Machine Learning & AI:** Machine Learning, Deep Learning, NLP, Computer Vision (OpenCV)  
+
+📈 **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+
+🧠 **Deep Learning Frameworks:** TensorFlow, Keras  
+
+🤖 **Generative AI & LLMs:** LangChain, Hugging Face, OpenAI API  
+
 🛠️ **Tools:** Git, GitHub, Jupyter Notebook, Postman  
 
 ---
