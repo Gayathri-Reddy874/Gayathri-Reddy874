@@ -1,82 +1,145 @@
 # 👋 Hi there, I'm Mallareddygari Gayathri!
 
-🎓 **Final-Year B.E. in Artificial Intelligence & Machine Learning**  
-💻 **Aspiring Data Scientist | AI & ML Engineer**  
+🎓 **B.E. Graduate in Artificial Intelligence & Machine Learning**  
+💼 **Aspiring Data Scientist | AI/ML Engineer | Data Analyst (Power BI)**  
 📍 Bangalore, India  
 
 ---
 
 ## 🚀 About Me
 
-🚀 **Aspiring Data Scientist passionate about building real-world AI solutions**
+I am a **graduate in Artificial Intelligence & Machine Learning** with strong interest in **Data Science, AI/ML engineering, and Business Intelligence**.
 
-I specialize in **Machine Learning, Deep Learning, and NLP**, with hands-on experience in developing intelligent systems and backend applications.  
-I enjoy transforming raw data into **actionable insights** and building scalable AI-driven solutions.
+I specialize in building **data-driven and AI-powered solutions** using Machine Learning, Deep Learning, NLP, and Data Visualization tools like Power BI.
 
-💡 **What I do:**
-- Build **Machine Learning models** for prediction & analytics  
-- Develop **REST APIs & backend systems** using Django  
-- Work on **NLP and AI-powered applications**  
-- Perform **data analysis & visualization** using Python  
+I enjoy solving real-world problems by transforming raw data into **insightful dashboards, predictive models, and intelligent applications**.
 
----
-
-## 🧠 Tech Stack
-
-💻 **Languages:** Python, SQL, C, C++  
-🤖 **AI/ML:** Machine Learning, Deep Learning, NLP  
-📊 **Data Tools:** Pandas, NumPy, Scikit-learn  
-🧠 **Frameworks:** TensorFlow  
-🌐 **Backend:** Django, REST APIs  
-📊 **Visualization:** Power BI, Tableau  
-🛠️ **Tools:** Git, GitHub, Postman  
+💡 **Core Interests:**
+- Data Science & Predictive Analytics  
+- Machine Learning & Deep Learning  
+- Computer Vision & NLP  
+- Business Intelligence (Power BI)  
+- AI-driven Applications  
 
 ---
 
-## 📌 Highlights
+## 🧠 Technical Skills
 
-- Built **IPO REST API system** using Django & PostgreSQL  
-- Developed **real-time AI applications using OpenCV**  
-- Experience in **data analysis, backend systems, and ML workflows**  
-- Strong focus on **problem-solving and scalable solutions**  
+💻 **Programming:** Python, SQL, C, C++  
+📊 **Data Science:** Pandas, NumPy, Scikit-learn, Feature Engineering, Data Cleaning  
+🤖 **AI/ML:** Machine Learning, Deep Learning, NLP, OpenCV  
+📈 **BI Tools:** Power BI, Tableau  
+🧠 **Frameworks:** TensorFlow, Django, Flask  
+🌐 **Backend:** REST API Development, PostgreSQL  
+📊 **Visualization:** Matplotlib, Seaborn  
+🛠️ **Tools:** Git, GitHub, Jupyter Notebook, Postman  
 
 ---
 
-## 📊 Featured Work
+## 📌 Featured Projects
 
-🔹 **YouTube Transcript Summarizer**  
-→ NLP-based app to extract & summarize video transcripts  
+### 🧠 AI / ML & Deep Learning
 
-🔹 **Drowsiness Detection System**  
-→ Real-time driver fatigue detection using computer vision  
+#### 🔹 Smart Drowsiness Detection System
+- Real-time driver monitoring using OpenCV and dlib  
+- Detects eye closure and yawning using EAR & MAR metrics  
+- Sends alerts for road safety applications  
 
-🔹 **Hand Gesture Recognition System**  
-→ Controlled brightness using hand tracking  
+---
 
-🔹 **E-commerce Web Application**  
-→ Full-stack application with responsive UI  
+#### 🔹 Hand Gesture Recognition System
+- AI-based system for controlling screen brightness using hand gestures  
+- Uses OpenCV + MediaPipe for real-time tracking  
+- Demonstrates Human-Computer Interaction using AI  
 
-🔹 **AI Chatbot Application**  
-→ Built chatbot using OpenAI API  
+---
+
+#### 🔹 Churn Prediction ML System
+- Built predictive model using IBM Telco dataset  
+- End-to-end ML pipeline including preprocessing and evaluation  
+- Demonstrates real-world classification problem solving  
+
+---
+
+### 🤖 GenAI / NLP Projects
+
+#### 🔹 Multi-Document RAG AI Assistant
+- Built using LangChain + Pinecone + Groq LLaMA  
+- Enables semantic search across multiple documents  
+- Implements Retrieval-Augmented Generation (RAG) system  
+
+---
+
+#### 🔹 AI Chatbot (OpenAI API)
+- Conversational AI chatbot with context-aware responses  
+- Integrated OpenAI API for intelligent interactions  
+- Web-based interactive chatbot system  
+
+---
+
+#### 🔹 YouTube Transcript Summarizer
+- NLP-based system to summarize video transcripts  
+- Extracts key insights from long-form content  
+- Improves content consumption efficiency  
+
+---
+
+#### 🔹 Next Word Prediction (LSTM Model)
+- Built using RNN/LSTM with TensorFlow  
+- Predicts next word in a sentence using sequence learning  
+- Streamlit-based interactive NLP application  
+
+---
+
+### 📊 Data & BI Projects
+
+#### 🔹 Power BI Dashboards (Data Analytics Projects)
+- Created interactive dashboards for business insights  
+- Visualized KPIs, trends, and performance metrics  
+- Strong focus on data storytelling and decision-making  
+
+---
+
+### 🌐 Full Stack / Backend Projects
+
+#### 🔹 IPO Data Intelligence REST API
+- Built REST APIs using Django + PostgreSQL  
+- Includes authentication and CRUD operations  
+- Designed for scalable financial data management  
+
+---
+
+#### 🔹 Inventory Management Dashboard (Streamlit)
+- Real-time inventory tracking system  
+- Stock analytics, alerts, and reporting features  
+- Lightweight CSV-based data system  
+
+---
+
+#### 🔹 Contact Management System
+- Streamlit-based contact manager application  
+- Add, search, delete contacts with history tracking  
+
+---
+
+#### 🔹 E-Commerce Web Applications
+- Responsive frontend using HTML, CSS, JavaScript  
+- Product listing, UI design, and navigation system  
+
+---
+
+#### 🔹 Library Management System (C)
+- File handling + linked list-based system  
+- Demonstrates strong logic building and low-level programming  
 
 ---
 
 ## 🏆 Certifications
 
 - 🧠 Artificial Intelligence – IBM SkillsBuild  
-- 📊 Data Visualization – Power BI  
+- 📊 Power BI Data Visualization  
 - 🤖 Generative AI Workshop  
 - 🌱 Green AI & Sustainability  
-
----
-
-## 📫 Connect with Me
-
-📧 **Email:** gayathrireddy18125@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mallareddygari-gayathri  
-💻 **GitHub:** https://github.com/Gayathri-Reddy874  
-🧠 **LeetCode:** https://leetcode.com/u/M-Gayathri-Reddy/  
-🤗 **HuggingFace:** https://huggingface.co/GayathriReddy96874  
 
 ---
 
@@ -88,4 +151,14 @@ I enjoy transforming raw data into **actionable insights** and building scalable
 
 ---
 
-⭐ *“Turning data into insights and ideas into intelligent systems.”*
+## 📫 Connect with Me
+
+📧 Email: gayathrireddy18125@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mallareddygari-gayathri  
+💻 GitHub: https://github.com/Gayathri-Reddy874  
+🧠 LeetCode: https://leetcode.com/u/M-Gayathri-Reddy/  
+🤗 HuggingFace: https://huggingface.co/GayathriReddy96874  
+
+---
+
+⭐ *Turning data into insights, and insights into intelligent solutions.*
