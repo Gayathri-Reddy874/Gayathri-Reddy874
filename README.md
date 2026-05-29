@@ -166,20 +166,16 @@ I am currently actively working on **Data Science and AI/ML projects**, with a f
 - 🤖 Generative AI Workshop  
 - 🌱 Green AI & Sustainability  
 
----
 
-```md
+```md id="h8j6b7"
 # 📈 GitHub Stats
 
-![Gayathri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=radical)
+![Gayathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=radical)
 
 # 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact&theme=radical)
 ```
-
-
----
 
 ## 📫 Connect with Me
 
