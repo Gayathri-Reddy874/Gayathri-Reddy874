@@ -165,9 +165,9 @@ I am currently actively working on **Data Science and AI/ML projects**, with a f
 - 📊 Power BI Data Visualization  
 - 🤖 Generative AI Workshop  
 - 🌱 Green AI & Sustainability  
+---
 
 
-```md id="h8j6b7"
 # 📈 GitHub Stats
 
 ![Gayathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=radical)
@@ -175,8 +175,8 @@ I am currently actively working on **Data Science and AI/ML projects**, with a f
 # 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact&theme=radical)
-```
 
+---
 ## 📫 Connect with Me
 
 📧 Email: gayathrireddy18125@gmail.com  
