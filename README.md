@@ -56,7 +56,6 @@ Results-driven **Data Analyst and AI/ML Engineer** graduate with a B.E. in Artif
 #### Churn Prediction ML System *(Python + Scikit-learn)*
 - Analyzed IBM Telco dataset; built an **end-to-end ML pipeline** for customer churn prediction
 - Performed EDA, feature engineering, model training, and performance evaluation
-- Directly applicable to **Business Analyst / Data Scientist** roles in CRM and customer analytics
 
 ---
 
