@@ -90,9 +90,9 @@ Results-driven **Data Analyst and AI/ML Engineer** graduate with a B.E. in Artif
 | Certification | Issuer |
 |---|---|
 | Artificial Intelligence | IBM SkillsBuild |
-| Power BI Data Visualization | —AI Skills Nation |
-| Generative AI Workshop | — |
-| Green AI & Sustainability | —Edunet Foundation |
+| Power BI Data Visualization | Skill Nation |
+| Generative AI Workshop | OpenAI |
+| Green AI & Sustainability | Edunet Foundation |
 
 ---
 
