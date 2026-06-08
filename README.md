@@ -47,7 +47,7 @@ With additional expertise in Machine Learning and Generative AI, I bring a rare 
 ### 🗄️ Tools & Platforms
 - **Dev Tools:** Jupyter Notebook, Postman, VS Code
 - **Version Control:** Git, GitHub
-- **Databases:** MySQL, MongoDB
+- **Databases/Vector Databases:** MySQL, MongoDB, Pinecone, FAISS
 
 ---
 
