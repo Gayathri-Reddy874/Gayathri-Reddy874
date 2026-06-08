@@ -1,190 +1,113 @@
-# 👋 Hi there, I'm Mallareddygari Gayathri!
+# Mallareddygari Gayathri
+**Data Analyst | Business Analyst | Power BI Developer | SQL Developer | AI/ML Engineer**
 
-🎓 **B.E. Graduate in Artificial Intelligence & Machine Learning**  
-💼 **Aspiring Data Scientist | AI/ML Engineer | Data Analyst (Power BI)**  
-📍 Bangalore, India  
-
----
-
-## 🚀 About Me
-
-I am a **graduate in Artificial Intelligence & Machine Learning** with a strong interest in **Data Science, AI/ML Engineering, and Business Intelligence**.
-
-I specialize in building **data-driven and AI-powered solutions** using Machine Learning, Deep Learning, NLP, and Data Visualization tools like Power BI.
-
-I enjoy solving real-world problems by transforming raw data into **insightful dashboards, predictive models, and intelligent applications**.
-
-I am currently actively working on **Data Science and AI/ML projects**, with a focus on improving my skills in **model building, real-world deployment, and intelligent system design**.
-
- **Career Interests:**
-- Data Scientist roles  
-- AI/ML Engineer roles  
-- Machine Learning Engineer roles  
-- Data Analyst / Business Intelligence roles  
-
-🎯 **Open To:**
-- Full-time opportunities in Data Science & AI/ML  
-- Internships / Graduate roles in Machine Learning, AI, and Analytics  
-- Real-world project collaboration in AI and Data Science  
-
-💡 **Core Interests:**
-- Machine Learning & Predictive Analytics  
-- Deep Learning & Computer Vision  
-- Natural Language Processing (NLP)  
-- Data Science & Business Intelligence (BI) 
-- AI-powered Applications  
-
----
-## 🔥 Current Focus
-
-- Building production-ready AI/ML projects  
-- Improving Data Science & Machine Learning skills  
-- Working on end-to-end real-world AI systems  
-- Strengthening portfolio for Data Scientist roles  
----
-
-## 🧠 Technical Skills
-
-🧠 **Programming:** Python, SQL  
-
-📊 **Data Science:** Pandas, NumPy, Scikit-learn, Feature Engineering, Data Cleaning, Data Preprocessing  
-
-🤖 **Machine Learning & AI:** Machine Learning, Deep Learning, NLP, Computer Vision (OpenCV)  
-
-📈 **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-
-🧠 **Deep Learning Frameworks:** TensorFlow, Keras  
-
-🤖 **Generative AI & LLMs:** LangChain, Hugging Face, OpenAI API  
-
-🛠️ **Tools:** Git, GitHub, Jupyter Notebook, Postman  
+📍 Bangalore, India &nbsp;|&nbsp; 📧 gayathrireddy18125@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/mallareddygari-gayathri) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/Gayathri-Reddy874) &nbsp;|&nbsp; 🧠 [LeetCode](https://leetcode.com/u/M-Gayathri-Reddy/) &nbsp;|&nbsp; 🤗 [HuggingFace](https://huggingface.co/GayathriReddy96874)
 
 ---
 
-## 📌 Featured Projects
+## 👩‍💼 Professional Summary
 
-### 🧠 AI / ML & Deep Learning
-
-#### 🔹 Smart Drowsiness Detection System
-- Real-time driver monitoring using OpenCV and dlib  
-- Detects eye closure and yawning using EAR & MAR metrics  
-- Sends alerts for road safety applications  
+Results-driven **Data Analyst and AI/ML Engineer** graduate with a B.E. in Artificial Intelligence & Machine Learning. Experienced in **SQL querying, Power BI dashboard development, Python-based data analysis, and machine learning**. Skilled at transforming raw data into actionable business insights through clean visualizations, accurate reporting, and predictive models. Open to roles in **Data Analytics, Business Intelligence, Power BI Development, SQL Development, MIS Reporting, and AI/ML Engineering**.
 
 ---
 
-#### 🔹 Hand Gesture Recognition System
-- AI-based system for controlling screen brightness using hand gestures  
-- Uses OpenCV + MediaPipe for real-time tracking  
-- Demonstrates Human-Computer Interaction using AI  
+## 🎯 Open To Roles
+
+`Data Analyst` &nbsp;`Business Analyst` &nbsp;`Power BI Developer` &nbsp;`BI Analyst` &nbsp;`SQL Developer` &nbsp;`MIS Executive / Reporting Analyst` &nbsp;`Data Scientist` &nbsp;`AI/ML Engineer`
 
 ---
 
-#### 🔹 Churn Prediction ML System
-- Built predictive model using IBM Telco dataset  
-- End-to-end ML pipeline including preprocessing and evaluation  
-- Demonstrates real-world classification problem solving  
+## 🛠️ Technical Skills
+
+### Data Analytics & BI
+- **SQL:** Querying, joins, aggregations, window functions, pivot tables, stored procedures
+- **Power BI:** Interactive dashboards, DAX measures, KPI tracking, data storytelling, report publishing
+- **Excel / Reporting:** MIS reports, data summaries, trend analysis
+- **Tableau:** Data visualization and business reporting
+- **Python for Analytics:** Pandas, NumPy, data cleaning, preprocessing, EDA
+
+### Data Science & AI/ML
+- **Machine Learning:** Scikit-learn, classification, regression, clustering, feature engineering
+- **Deep Learning:** TensorFlow, Keras, RNN/LSTM, Computer Vision (OpenCV)
+- **NLP & GenAI:** LangChain, Hugging Face, OpenAI API, Google Gemini API,Groq API, RAG systems
+- **Frameworks:** MediaPipe, Streamlit, Django, Flask
+
+### Tools & Platforms
+- **Version Control:** Git, GitHub
+- **Dev Tools:** Jupyter Notebook, Postman, VS Code
+- **Databases:** MySQL,MongoDB
 
 ---
 
-### 🤖 GenAI / NLP Projects
+## 📊 Featured Projects
 
-#### 🔹 Multi-Document RAG AI Assistant
-- Built using LangChain + Pinecone + Groq LLaMA  
-- Enables semantic search across multiple documents  
-- Implements Retrieval-Augmented Generation (RAG) system  
+### Data Analytics & BI
 
----
+#### Power BI Dashboards — Business Intelligence Projects - (Blinkit, Netflix, Pizza Sales)
+- Designed and published **interactive Power BI dashboards** for business performance monitoring
+- Built DAX measures to calculate KPIs, track trends, and surface actionable insights
+- Applied data storytelling principles to support data-driven decision-making by stakeholders
 
-#### 🔹 AI Chatbot (OpenAI API)
-- Conversational AI chatbot with context-aware responses  
-- Integrated OpenAI API for intelligent interactions  
-- Web-based interactive chatbot system  
+#### Inventory Management Dashboard *(Python + Streamlit)*
+- Developed a **real-time reporting dashboard** for inventory tracking and stock alerts
+- Enabled stock analytics and automated reporting from CSV data sources
+- Demonstrates end-to-end **data pipeline + visualization** skills
 
----
-
-#### 🔹 YouTube Transcript Summarizer
-- NLP-based system to summarize video transcripts  
-- Extracts key insights from long-form content  
-- Improves content consumption efficiency  
+#### Churn Prediction ML System *(Python + Scikit-learn)*
+- Analyzed IBM Telco dataset; built an **end-to-end ML pipeline** for customer churn prediction
+- Performed EDA, feature engineering, model training, and performance evaluation
+- Directly applicable to **Business Analyst / Data Scientist** roles in CRM and customer analytics
 
 ---
 
-#### 🔹 Next Word Prediction (LSTM Model)
-- Built using RNN/LSTM with TensorFlow  
-- Predicts next word in a sentence using sequence learning  
-- Streamlit-based interactive NLP application  
+### AI / ML & Deep Learning
 
----
+#### Multi-Document RAG AI Assistant *(LangChain + Pinecone + Groq LLaMA)*
+- Built a **Retrieval-Augmented Generation (RAG)** system enabling semantic search across documents
+- Combines vector embeddings with LLM-based responses for enterprise-grade document Q&A
 
-### 📊 Data & BI Projects
+#### Smart Drowsiness Detection System *(OpenCV + dlib)*
+- Real-time driver monitoring using **Eye Aspect Ratio (EAR)** and **Mouth Aspect Ratio (MAR)** metrics
+- Sends safety alerts on detecting drowsiness — deployed as a real-time AI safety application
 
-#### 🔹 Power BI Dashboards (Data Analytics Projects)
-- Created interactive dashboards for business insights  
-- Visualized KPIs, trends, and performance metrics  
-- Strong focus on data storytelling and decision-making  
+#### Next Word Prediction — LSTM Model *(TensorFlow + Streamlit)*
+- Sequence learning model using **RNN/LSTM** for natural language prediction
+- Deployed as an interactive Streamlit application demonstrating end-to-end NLP delivery
 
----
+#### YouTube Transcript Summarizer *(NLP)*
+- Extracts and summarizes key insights from long-form video transcripts using NLP techniques
 
-### 🌐 Full Stack / Backend Projects
+#### AI Chatbot *(OpenAI API)*
+- Context-aware conversational chatbot integrated with OpenAI API; deployed as a web application
 
-#### 🔹 IPO Data Intelligence REST API
-- Built REST APIs using Django + PostgreSQL  
-- Includes authentication and CRUD operations  
-- Designed for scalable financial data management  
-
----
-
-#### 🔹 Inventory Management Dashboard (Streamlit)
-- Real-time inventory tracking system  
-- Stock analytics, alerts, and reporting features  
-- Lightweight CSV-based data system  
-
----
-
-#### 🔹 Contact Management System
-- Streamlit-based contact manager application  
-- Add, search, delete contacts with history tracking  
-
----
-
-#### 🔹 E-Commerce Web Applications
-- Responsive frontend using HTML, CSS, JavaScript  
-- Product listing, UI design, and navigation system  
-
----
-
-#### 🔹 Library Management System (C)
-- File handling + linked list-based system  
-- Demonstrates strong logic building and low-level programming  
+#### Hand Gesture Recognition System *(OpenCV + MediaPipe)*
+- AI-based human-computer interaction system controlling screen brightness via hand gestures
 
 ---
 
 ## 🏆 Certifications
 
-- 🧠 Artificial Intelligence – IBM SkillsBuild  
-- 📊 Power BI Data Visualization  
-- 🤖 Generative AI Workshop  
-- 🌱 Green AI & Sustainability  
+| Certification | Issuer |
+|---|---|
+| Artificial Intelligence | IBM SkillsBuild |
+| Power BI Data Visualization | —AI Skills Nation |
+| Generative AI Workshop | — |
+| Green AI & Sustainability | —Edunet Foundation |
+
 ---
 
+## 🎓 Education
 
-# 📈 GitHub Stats
+**B.E. — Artificial Intelligence & Machine Learning**
+Bangalore, India
+
+---
+
+## 📈 GitHub Stats
 
 ![Gayathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-Reddy874&show_icons=true&theme=radical)
-
-# 💻 Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-Reddy874&layout=compact&theme=radical)
 
 ---
-## 📫 Connect with Me
 
-📧 Email: gayathrireddy18125@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mallareddygari-gayathri  
-💻 GitHub: https://github.com/Gayathri-Reddy874  
-🧠 LeetCode: https://leetcode.com/u/M-Gayathri-Reddy/  
-🤗 HuggingFace: https://huggingface.co/GayathriReddy96874  
-
----
-
-⭐ *Turning data into insights, and insights into intelligent solutions.*
+*"Turning data into insights, and insights into intelligent solutions."*
