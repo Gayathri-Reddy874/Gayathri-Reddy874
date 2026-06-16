@@ -31,7 +31,7 @@ With additional expertise in Machine Learning and Generative AI, I bring a rare 
 ## 🛠️ Technical Skills
 
 ### 📊 Data Analysis & Business Intelligence *(Core Strengths)*
-- **SQL** — Complex queries, joins, aggregations, window functions, pivot tables, stored procedures (SQL, MySQL, MongoDB)
+- **SQL** — Complex queries, joins, aggregations, window functions, pivot tables, stored procedures (MS SQL, MySQL, MongoDB)
 - **Power BI** — End-to-end dashboard development, DAX measures, KPI tracking, data storytelling, report publishing
 - **Excel / MIS Reporting** — Data summaries, trend analysis, pivot tables, automated reports
 - **Tableau** — Interactive data visualizations and business reporting
