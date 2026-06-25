@@ -118,7 +118,7 @@ Real-time driver monitoring system using **Eye Aspect Ratio (EAR)** and **Mouth 
 
 ---
 
-#### 🔹 Next Word Prediction — LSTM Model
+#### 🔹 Next Word Prediction - LSTM Model
 > **Role fit: AI/ML Engineer | NLP Developer**
 
 Sequence learning model using **RNN/LSTM** for natural language prediction, deployed as an interactive Streamlit application.
