@@ -64,7 +64,7 @@ Designed and published multiple **interactive Power BI dashboards** for real bus
 
 - Built advanced **DAX measures** for dynamic KPI calculations and trend tracking
 - Applied **data storytelling principles** to translate raw data into business narratives for stakeholders
-- Covered retail, streaming, and food industry datasets — demonstrating cross-domain analytics versatility
+- Covered retail, streaming, and food industry datasets - demonstrating cross-domain analytics versatility
 
 **Tech Stack:** `Power BI` `DAX` `Power Query` `Business Analytics`
 
@@ -156,7 +156,7 @@ AI-based human-computer interaction system that controls screen brightness via h
 
 ## 🎓 Education
 
-**B.E. — Artificial Intelligence & Machine Learning**
+**B.E. - Artificial Intelligence & Machine Learning**
 Bangalore, India
 
 ---
