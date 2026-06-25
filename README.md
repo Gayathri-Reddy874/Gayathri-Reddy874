@@ -9,7 +9,7 @@
 
 Results-driven **Data Analyst** and **B.E. graduate in Artificial Intelligence & Machine Learning** with strong hands-on experience in **SQL querying**, **Power BI dashboard development**, **Python-based analytics**, and **business reporting**. I specialize in transforming messy, raw data into clean, visual, and actionable insights that help businesses make smarter decisions.
 
-With additional expertise in Machine Learning and Generative AI, I bring a rare combination of **analytical depth** and **technical breadth** — making me a strong fit for Data Analyst, Business Analyst, Power BI Developer, BI Analyst, MIS/Reporting Analyst, SQL Developer, and AI/ML Engineer roles.
+With additional expertise in Machine Learning and Generative AI, I bring a rare combination of **analytical depth** and **technical breadth** - making me a strong fit for Data Analyst, Business Analyst, Power BI Developer, BI Analyst, MIS/Reporting Analyst, SQL Developer, and AI/ML Engineer roles.
 
 ---
 
@@ -57,7 +57,7 @@ With additional expertise in Machine Learning and Generative AI, I bring a rare 
 
 ---
 
-#### 🔹 Power BI Dashboards — Blinkit | Netflix | Pizza Sales
+#### 🔹 Power BI Dashboards - Blinkit | Netflix | Pizza Sales
 > **Role fit: Power BI Developer | BI Analyst | MIS Executive | Reporting Analyst**
 
 Designed and published multiple **interactive Power BI dashboards** for real business datasets, enabling performance monitoring and data-driven decision-making.
