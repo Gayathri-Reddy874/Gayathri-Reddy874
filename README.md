@@ -143,7 +143,7 @@ flowchart LR
 
 ## 💼 Experience
 
-- **Data Analyst - Apprentice - Colt Technology Services** | *Start date – Present*
+- **Data Analyst - Apprentice - Colt Technology Services** | *July 2026 - Present*
   Working with real business data: SQL querying, analysis, dashboards and reporting.
   <!-- ✏️ Add your start date and 2-3 quantified bullets (e.g. "Built X dashboard used by Y team, cutting reporting time by Z%") -->
 
