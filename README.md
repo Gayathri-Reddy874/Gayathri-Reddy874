@@ -11,14 +11,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gayathri-Reddy874/Gayathri-Reddy874/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gayathri-Reddy874/Gayathri-Reddy874/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Gayathri-Reddy874/Gayathri-Reddy874/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://github.com/Gayathri-Reddy874"><img src="https://img.shields.io/badge/GitHub-Gayathri--Reddy874-0b0f1a?style=for-the-badge&logo=github&logoColor=7DF9FF&labelColor=05070d" /></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-Gayathri%20Reddy-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=7DF9FF&labelColor=05070d" /></a>
   <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-0b0f1a?style=for-the-badge&logo=gmail&logoColor=7DF9FF&labelColor=05070d" /></a>
