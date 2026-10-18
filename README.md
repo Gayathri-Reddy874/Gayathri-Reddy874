@@ -33,7 +33,7 @@ My long-term goal is to become an **AI Engineer**, so alongside analytics I buil
 - 📊 Designed a **Medallion-architecture (Bronze → Silver → Gold) SQL data warehouse** that surfaced **$29.4M in total revenue** insights from bike sales data.
 - 🧠 Built and deployed ML apps: sentiment analysis, emotion detection, and recommender systems with clean, tested, documented code.
 - 🤝 Made my **first open-source contribution** to **MLflow** (documentation PR #23551).
-- 🎯 Currently: **working as a Data Analyst – Apprentice**, while building toward Data Scientist → AI/ML Engineer.
+- 🎯 Currently: **working as a Data Analyst - Apprentice**, while building toward Data Scientist → AI/ML Engineer.
 
 ---
 
