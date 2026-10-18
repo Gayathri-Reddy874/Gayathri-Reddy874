@@ -147,7 +147,7 @@ flowchart LR
   Working with real business data: SQL querying, analysis, dashboards and reporting.
   <!-- ✏️ Add your start date and 2-3 quantified bullets (e.g. "Built X dashboard used by Y team, cutting reporting time by Z%") -->
 
-- **Data Science Intern — Take It Smart (OPC) Pvt Ltd**
+- **Data Science Intern - Take It Smart (OPC) Pvt Ltd**
   Hands-on work across the data science workflow: data handling, analysis and modeling.
   <!-- ✏️ Add 2 quantified bullets and your internship dates here -->
 
