@@ -165,7 +165,7 @@ flowchart LR
 
 ## 📬 Let's Connect
 
-I'm working as a **Data Analyst – Apprentice** and always happy to talk about data, analytics and AI, or to collaborate on projects.
+I'm working as a **Data Analyst - Apprentice** and always happy to talk about data, analytics and AI, or to collaborate on projects.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mallareddygari-gayathri"><img src="https://img.shields.io/badge/LinkedIn-Mallareddygari%20Gayathri-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=7DF9FF&labelColor=05070d" /></a>
