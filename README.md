@@ -74,7 +74,7 @@ My long-term goal is to become an **AI Engineer**, so alongside analytics I buil
 | **SQL Sales Data Warehouse & Analytics** | **Pizza Sales Analytics Dashboard** |
 | --- | --- |
 | End-to-end warehouse using **Medallion architecture (Bronze/Silver/Gold)**, with analytics on bike sales data uncovering **$29.4M total revenue** insights.<br>**Stack:** `SQL` `ETL` `Data Modeling`<br>[![](https://img.shields.io/badge/View_Project-7DF9FF?style=for-the-badge&logo=github&logoColor=050709)](https://github.com/Gayathri-Reddy874?tab=repositories) | Interactive dashboard analysing pizza sales trends, top products and peak periods to support business decisions.<br>**Stack:** `Dashboarding` `KPIs` `Data Visualization`<br>[![](https://img.shields.io/badge/View_Project-7DF9FF?style=for-the-badge&logo=github&logoColor=050709)](https://github.com/Gayathri-Reddy874?tab=repositories) |
-| **SegmentIQ — Customer Segmentation** | **Career-Guide App** |
+| **SegmentIQ - Customer Segmentation** | **Career-Guide App** |
 | Customer segmentation project turning raw customer data into actionable groups for targeting.<br>**Stack:** `Python` `Pandas` `Scikit-learn`<br>[![](https://img.shields.io/badge/View_Project-7DF9FF?style=for-the-badge&logo=github&logoColor=050709)](https://github.com/Gayathri-Reddy874/Career-guide) | Career guidance web app deployed live on Render.<br>**Stack:** `Python` `Web App` `Render`<br>[![](https://img.shields.io/badge/View_Project-7DF9FF?style=for-the-badge&logo=github&logoColor=050709)](https://github.com/Gayathri-Reddy874/Career-guide) |
 
 ### 🧠 ML / AI *(my path toward AI Engineer)*
