@@ -155,7 +155,7 @@ flowchart LR
 
 ## 🏆 Education, Achievements & Certifications
 
-- 🎓 **B.E. in AI & Machine Learning Engineering** — CGPA **9.07 / 10**
+- 🎓 **B.E. in AI & Machine Learning Engineering** - CGPA **9.07 / 10**
 - 🏅 **Best Performer** recognition
 - 🪟 **Microsoft Applied Skills** credential
 - 🌐 Certifications from Microsoft, Cisco, Coursera and more
